@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.3
+Date: 04/11/2025
+  Changes:
+    - Various internal code changes.
+    - Changed the order of the settings.
+  Features:
+    - AMS machine technologies are hidden by default. To unhide them, either disable the new map-wide setting or research all of the prerequisites of the AMS technology you want to unhide.
+  Translation:
+    - Update russian locale.
+---------------------------------------------------------------------------------------------------
 Version: 1.4.2
 Date: 10/09/2025
   Changes:
